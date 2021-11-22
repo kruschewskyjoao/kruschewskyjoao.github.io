@@ -1,3 +1,43 @@
 body {
     font-family: "montserrat", sans-serif;
+    font-size: 18px;
+    background-color: lightgrey;
+}
+.linksinicial {
+    line-height: 30px;
+}
+.fotoatual {
+    border-radius: 17px;
+}
+.descricao {
+    font-size: 22px;
+    padding: 25px 30px;
+}
+.habs {
+    padding: 20px;
+    line-height: 30px;
+
+}
+.links {
+    text-decoration: none;
+}
+.hab1 {
+    font-size: 20px;
+    font-weight: bold;
+    font-style: italic;
+}
+.hab2 {
+    font-size: 19px;
+    font-weight: bold;
+    font-style: italic;
+}
+.hab3 {
+    font-size: 18px;
+    font-weight: bold;
+    font-style: italic;
+}
+.hab4 {
+    font-size: 17px;
+    font-weight: bold;
+    font-style: italic;
 }
