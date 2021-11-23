@@ -5,9 +5,20 @@ body {
 }
 .linksinicial {
     line-height: 30px;
+    text-align: center;
+}
+#linksbotoes {
+    color: white;
+    background: gray;
+    padding: 10px 15px;
+    line-height: 30px;
+    border-radius: 5px;
 }
 .fotoatual {
+    width: 200px;
     border-radius: 17px;
+    margin: auto;
+    display: block;
 }
 .descricao {
     font-size: 22px;
